@@ -1,0 +1,16 @@
+{
+  "name": "Devnet Solana Token",
+  "symbol": "DST",
+  "description": "Official Devnet Solana Token for Web3 development and retrodrop testing.",
+  "image": "https://github.com/user-attachments/assets/7078b42e-ad2c-489e-b903-b8b994944321",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/user-attachments/assets/7078b42e-ad2c-489e-b903-b8b994944321",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
